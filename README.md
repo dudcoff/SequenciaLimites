@@ -1,2 +1,2 @@
 # SequenciaLimites
-atividade 27/05
+exercício 27/05
